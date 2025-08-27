@@ -16,7 +16,6 @@ Currently building my portfolio step by step.
    - Queries: total admissions, gender distribution, type of admissions etc.  
    - Tools: SQL Server  
    - Status: ✅ Completed
-   - 
 
 2. **Upcoming Projects**  
    - Data Cleaning and EDA on Healthcare dataset  
