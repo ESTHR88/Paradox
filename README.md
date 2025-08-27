@@ -1,6 +1,6 @@
 # Paradox
 Health Informatics Project through data analysis using SQL and Tableau
-## Projects (So Far)
+## Projects 
 1. **Hospital Admissions SQL Project**  
    - Queries: total admissions, gender distribution, type of admissions etc.  
    - Tools: SQL Server  
