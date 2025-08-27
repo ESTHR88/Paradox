@@ -11,11 +11,12 @@ This repo contains:
 I am a Health Informatics graduate exploring **SQL, Tableau, and Data Governance**.  
 Currently building my portfolio step by step. 
 
-## Projects 
+## Project 
 1. **Hospital Admissions SQL Project**  
    - Queries: total admissions, gender distribution, type of admissions etc.  
    - Tools: SQL Server  
-   - Status: ✅ Completed  
+   - Status: ✅ Completed
+   - 
 
 2. **Upcoming Projects**  
    - Data Cleaning and EDA on Healthcare dataset  
